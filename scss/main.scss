@@ -1,0 +1,26 @@
+// base
+
+@import './base/reset';
+@import './base/vars';
+@import './base/base';
+@import './base/mixins';
+
+// blocks
+@import './block/header';
+@import './block/nav';
+@import './block/nav-icons';
+@import './block/info';
+@import './block/benefits';
+@import './block/appartments';
+@import './block/cards';
+@import './block/cta';
+@import './block/form';
+@import './block/video';
+@import './block/map';
+@import './block/feedback';
+@import './block/footer';
+
+
+.none{
+    display: none;
+}
